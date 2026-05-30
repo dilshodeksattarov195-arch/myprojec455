@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordercalculate",
+        "uuid": 1329965,
+        "checksum": "j5tn8g"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
